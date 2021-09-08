@@ -1,0 +1,12 @@
+SMAP
+quickadd_jsp.java
+JSP
+*S JSP
+*F
++ 0 quickadd.jsp
+quickadd.jsp
+*L
+5,58:47
+64,17:107
+80,15:124
+*E

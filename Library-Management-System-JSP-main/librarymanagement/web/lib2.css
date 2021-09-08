@@ -1,0 +1,90 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25 Aug, 2019, 5:39:27 PM
+    Author     : dhara
+*/
+*
+{
+    margin:0px;
+}
+#bg{
+    width:100%;
+    background-position: center;	
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(libbg3.jpg);
+    background-size:cover;
+    background-color:rgba(0,0,0,0.4);
+    background-repeat: no-repeat;
+}
+#button
+{
+    background-color: rgba(0,0,0,0.5);
+}
+#header
+{
+  width:100%;
+  height:150px;
+  background-color:transparent;
+  text-align:center;
+  margin:0px auto;
+  padding-top:36px;
+}
+#content{
+    width:100%;
+    height:450px;
+    background-color:transparent;
+    margin:0px auto;
+}
+#frm
+{
+     background-color:transparent;
+     padding-left:400px;
+     //padding-right:1000px;
+     //align:center;
+                   
+}
+#nav
+{
+    background-color: transparent;
+    height: 50px
+}
+#nav a
+		{
+                float:right;
+		color:white;
+                padding:10px;
+		text-align:center;
+		//padding-bottom:32px;
+		text-decoration:none;
+		font-size:17px;
+		}
+		#nav a:hover
+		{
+                background-color: #ffffff;
+                border: 1px solid black;   
+                align:center;    
+		background-color:#7c7979;
+                opacity: 0.6;
+                filter:alpha(opacity=60);
+		color:black;
+                //padding:10px;
+                border-radius: 10px 0px 0px 10px;
+		}
+                h1
+		{
+		color:white;
+		}
+                h3
+                {
+                    color:white;
+                }
+                table
+                {
+                    align:center;
+                    color:white;
+                    background-color:rgba(0,0,0,0.4);
+                    //padding-left: 500px;
+                }
